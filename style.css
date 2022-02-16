@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box!important;
+}
+
+.navbar{
+    position: relative;
+}
+
+.active{
+    color: rgb(5, 205, 255)!important;
+    border-bottom: 2px solid rgb(5, 205, 255);
+}
